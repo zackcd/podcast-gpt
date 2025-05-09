@@ -1,0 +1,12 @@
+requests
+feedparser
+openai-whisper
+torch
+torchvision
+torchaudio
+assemblyai
+sentence-transformers
+scikit-learn
+openai
+flask
+pymilvus
